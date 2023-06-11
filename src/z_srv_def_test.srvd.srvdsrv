@@ -1,0 +1,4 @@
+@EndUserText.label: 'TEST'
+define service Z_SRV_DEF_TEST {
+  expose I_Country;
+}
